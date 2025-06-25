@@ -1,0 +1,14 @@
+Sunscreen,Aqualogica,482,250,India
+Face Toner,PureLeaf,100,300,Canada
+Night Cream,Luminara,84,300,Italy
+Acne Gel,SkinSolve,200,500,Australia
+Lip Balm,Hydraluxe,300,250,Sweden
+Hair Serum,SilkRoots,140,1050,Brazil
+Hand Cream,VelvetTouch,170,460,Denmark
+Foot Cream,HealSoft,190,520,Norway
+Facial Oil,GlowMist,130,890,Greece
+Clay Mask,PuraSkin,175,620,Poland
+Hydrating Gel,AquaBloom,220,910,Singapore
+Lip Gloss,Himalayan,200,250,India
+Hero Oil,Herolom,417,16,croatia
+heroinoil,Herolom,300,150,croatia
